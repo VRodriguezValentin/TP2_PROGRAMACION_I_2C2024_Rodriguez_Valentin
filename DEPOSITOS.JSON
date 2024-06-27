@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "capacidad": 1000,
+        "stock": [
+            {
+                "item": "5678-HJ",
+                "cantidad": 420
+            },
+            {
+                "item": "9999-XX",
+                "cantidad": 550
+            },
+            {
+                "item": "3456-JH",
+                "cantidad": 30
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "capacidad": 1000,
+        "stock": [
+            {
+                "item": "9999-XX",
+                "cantidad": 350
+            },
+            {
+                "item": "5678-HJ",
+                "cantidad": 240
+            },
+            {
+                "item": "3456-JH",
+                "cantidad": 4
+            },
+            {
+                "item": "8635-GH",
+                "cantidad": 386
+            },
+            {
+                "item": "7777-HH",
+                "cantidad": 20
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "capacidad": 1000,
+        "stock": [
+            {
+                "item": "8635-GH",
+                "cantidad": 94
+            },
+            {
+                "item": "6969-VV",
+                "cantidad": 400
+            },
+            {
+                "item": "7777-HH",
+                "cantidad": 20
+            },
+            {
+                "item": "9876-WW",
+                "cantidad": 79
+            },
+            {
+                "item": "3456-JK",
+                "cantidad": 4
+            }
+        ]
+    }
+]
