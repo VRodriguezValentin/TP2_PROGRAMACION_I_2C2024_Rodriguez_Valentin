@@ -152,10 +152,6 @@ Depósito 5: 50
 - Manejo de archivos CSV / JSON / TXT
 - Expresiones regulares para validaciones
 
----
-
-## 🚀 ¡A construir!
-
 Este sistema es modular y puede ser ampliado fácilmente. Ideal para implementar interfaces gráficas o adaptarlo a una base de datos real en el futuro.
 
 ---
